@@ -138,6 +138,8 @@
                 android:checked="true"
                 android:text="I agree" />
 
+
+
             <RadioGroup
                 android:id="@+id/rgOperator"
                 android:layout_width="wrap_content"
